@@ -2,7 +2,7 @@ package Ders12;
 
 public class C02_Faktöriyel {
     public static void main(String[] args) {
-        // kullanıcın verdiği verdiği sayının faktöriyelini bulalım
+        // kullanıcın verdiği  sayının faktöriyelini bulalım
 
         int sayı = 10;
         int faktoriyel = 1;
